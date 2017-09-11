@@ -1,2 +1,2 @@
 from helper import greeting
-greeting("I did something")
+greeting("I did something new")
